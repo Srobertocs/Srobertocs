@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/Srobertocs">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Srobertocs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srobertocs&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Srobertocs&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srobertocs&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>  
 <div style="display: inline_block"><br>
   <img align="center" alt="Sro-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
