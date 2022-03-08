@@ -6,13 +6,13 @@
 
 <div align="center">
   <a href="https://github.com/Srobertocs">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Srobertocs&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srobertocs&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Srobertocs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srobertocs&layout=compact&langs_count=7&theme=dark"/>
 </div>  
 <div style="display: inline_block"><br>
   <img align="center" alt="Sro-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="right" alt="Sro-pic" height="150" style="border-radius:50px;" 
-  src="https://c.tenor.com/_mOzJuopBkUAAAAC/demon-slayer-kimetsu-no-yaiba.gif">
+  src="https://3.bp.blogspot.com/-iDCIgTRVx-o/WHTUm7gK6mI/AAAAAAAAYbc/yM7i1uwLMS4HHVWzGB6W1kBldDEWLNbYgCLcB/s1600/Gifs%2Banimados%2BBoku%2Bno%2BHero%2BAcademia%2B3.gif">
 </div>
 </div>
   
