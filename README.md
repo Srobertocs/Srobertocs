@@ -2,5 +2,5 @@
 
 - 🌱 Atualmente estudante de ads-IFTM (Instituto Federal do Triângulo Mineiro)
 - 😄 ouço bastante música, curto anime e gosto de praticar esportes 
-- ⚡ Fato Engraçado: Sábia que o café é a segunda bebida mais consumida do mundo? ksksks A primeira é a água
+- ⚡ Fato Engraçado: Sabia que o café é a segunda bebida mais consumida do mundo? ksksks A primeira é a água
 -->
