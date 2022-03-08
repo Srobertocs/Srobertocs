@@ -1,7 +1,7 @@
 ### Olá! Sou o Sílvio Roberto, Vai um cafézinho aí?
 
-- 🌱 Atualmente estudante de ads-IFTM (Instituto Federal do Triângulo Mineiro)
-- 😄 ouço bastante música, curto anime e gosto de praticar esportes 
+- 🤞  Atualmente estudante de ads-IFTM (Instituto Federal do Triângulo Mineiro)
+- 🐱‍💻 ouço bastante música, curto anime e gosto de praticar esportes 
 - ⚡ Fato Engraçado: Sabia que o café é a segunda bebida mais consumida do mundo? ksksks A primeira é a água
 
 <div align="center">
