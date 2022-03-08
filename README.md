@@ -4,6 +4,8 @@
 - 🐱‍💻 ouço bastante música, curto anime e gosto de praticar esportes 
 - ⚡ Fato Engraçado: Sabia que o café é a segunda bebida mais consumida do mundo? ksksks A primeira é a água
 
+  ##
+
 <div align="center">
   <a href="https://github.com/Srobertocs">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Srobertocs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
