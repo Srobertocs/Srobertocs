@@ -11,12 +11,13 @@
 </div>  
 <div style="display: inline_block"><br>
   <img align="center" alt="Sro-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="right" alt="Sro-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Sro-pic" height="150" style="border-radius:50px;" 
+   src="![image](https://user-images.githubusercontent.com/81585025/157266471-87035691-ee0b-4bb4-af27-dc39e51e9aed.png)">
 </div>
   
   ##
 <div>
    <a href="https://www.instagram.com/s_robertocs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.instagram.com/s_robertocs/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://api.whatsapp.com/send?phone=5534996343432&text=%F0%9F%91%8C" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
