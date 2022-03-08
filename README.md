@@ -12,7 +12,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Sro-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="right" alt="Sro-pic" height="150" style="border-radius:50px;" 
-   src="![image](https://user-images.githubusercontent.com/81585025/157266471-87035691-ee0b-4bb4-af27-dc39e51e9aed.png)">
+  src="https://c.tenor.com/_mOzJuopBkUAAAAC/demon-slayer-kimetsu-no-yaiba.gif">
+</div>
 </div>
   
   ##
