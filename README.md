@@ -1,8 +1,8 @@
 ### Olá! Sou o Sílvio Roberto, Vai um cafézinho aí?
 
 - 🤞  Atualmente estudante de ads-IFTM (Instituto Federal do Triângulo Mineiro).
-- 🐱‍💻 ouço bastante música, curto sair com meus amigos e ir pra academia.
-- ⚡ Foco e diciplina.
+- 💻 ouço bastante música, curto sair com meus amigos e ir pra academia.
+- ⚡ Sejam Bem-Vindos ao meu mundo.
 
   ##
 </div>  
