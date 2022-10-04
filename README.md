@@ -12,7 +12,7 @@
   <img align="center" alt="Sro-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Sro-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="right" alt="Sro-pic" height="150" style="border-radius:50px;" 
-  src="https://3.bp.blogspot.com/-iDCIgTRVx-o/WHTUm7gK6mI/AAAAAAAAYbc/yM7i1uwLMS4HHVWzGB6W1kBldDEWLNbYgCLcB/s1600/Gifs%2Banimados%2BBoku%2Bno%2BHero%2BAcademia%2B3.gif">
+  src="https://media1.tenor.com/images/0dd77cfab0e820017bb078f029817883/tenor.gif?itemid=15911029">
 </div>
 </div>
   
