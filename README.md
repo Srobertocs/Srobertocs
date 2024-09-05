@@ -2,7 +2,7 @@
 
 - 🤞  Atualmente estudante de ads-IFTM (Instituto Federal do Triângulo Mineiro).
 - ⚡ Sejam Bem-Vindos ao meu perfil.
-- 🐱‍👓 Postando projetos pessoais e repositórios que crio para estudo.
+- 🎈 Postando projetos pessoais e repositórios que crio para estudo.
 
   ##
 </div>  
