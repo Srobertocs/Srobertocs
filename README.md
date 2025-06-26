@@ -4,7 +4,7 @@
 - ⚡ Sejam Bem-Vindos ao meu perfil.
 - 🎈 Postando projetos pessoais e repositórios que crio para estudo.
 
-  ## Tecnologias 
+  ##v
 </div>  
 <div style="display: inline_block"><br>
   <img align="center" alt="Sro-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
