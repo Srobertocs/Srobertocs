@@ -9,7 +9,7 @@
   <img align="center" alt="Sro-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Sro-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Sro-javaascript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Sro-C" src = "https://img.icons8.com/color/800/c-programming.png">
+  <img align="center" alt="Sro-C" src = "https://img.icons8.com/color/60/c-programming.png">
   <img align="center" alt="Sro-JAVA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Sro-POSTGRESQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Sro-SQLDEVELOPER" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg">
