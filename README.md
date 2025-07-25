@@ -17,6 +17,7 @@
 </div>
   
 ##
+### Estatísticas
 <div>
    <a href="https://www.instagram.com/s_robertocs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://api.whatsapp.com/send?phone=5534996343432&text=%F0%9F%91%8C" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
