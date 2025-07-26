@@ -1,6 +1,6 @@
 ### Olá! Sou o Sílvio Roberto, Vai um cafézinho aí?
 
-- ⚡ Sejam Bem-Vindos ao meu perfil.
+- ⚡ Seja Bem-Vindo(a) ao meu perfil.
 - 🎈 Postando projetos pessoais e repositórios que crio para estudo.
 - 🤞  Atualmente estudante de ADS-IFTM (Instituto Federal do Triângulo Mineiro). 
 
