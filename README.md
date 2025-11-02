@@ -28,4 +28,4 @@
 ##
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srobertocs&layout=compact&theme=dark)](https://github.com/Srobertocs)
-![Silvio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srobertocs&show_icons=true&theme=dark)
+![Silvio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srobertocs&show_icons=true&theme=dark&v=1)
