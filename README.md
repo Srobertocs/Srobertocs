@@ -6,7 +6,7 @@
 
 ##
 ### Tecnologias de Front-end
-<div style="display: inline_block"><br>
+<div style="display: flex; gap: 15px; align-items: center;"><br>
   <img align="center" alt="Sro-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Sro-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Sro-javaascript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -18,8 +18,6 @@
   <img align="center" alt="Sro-JAVA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Sro-JAVASPRING" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" >
   <img align="center" alt="Sro-NODE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-line-wordmark.svg" >
-  
-          
 </div>
 
 ##
