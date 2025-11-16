@@ -26,7 +26,7 @@
 ### Tecnologias de Banco Dados Relacional
 <div style="display: inline_block"><br>
   <img align="center" alt="Sro-MYSQL" height="50" width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Sro-POSTGRESQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="Sro-POSTGRESQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg">
 </div>
 
 ##
