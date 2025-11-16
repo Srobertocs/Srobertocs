@@ -17,7 +17,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Sro-JAVA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Sro-JAVASPRING" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" >
-  <img align="center" alt="Sro-NODE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" >
+  <img align="center" alt="Sro-NODE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-line-wordmark.svg" >
   
           
 </div>
