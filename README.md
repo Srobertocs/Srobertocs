@@ -1,20 +1,19 @@
 ### Olá! Sou o Sílvio Roberto, Vai um cafézinho aí? ☕
 
 - ⚡ Seja Bem-Vindo(a) ao meu perfil.
-- 🎈 Postando projetos pessoais e repositórios que crio para estudo.
-- 🤞 Atualmente estudante de ADS-IFTM (Instituto Federal do Triângulo Mineiro). 
+- 🎈 Portfólio.
+- 🤞 Atualmente estudante de ADS-IFTM (Instituto Federal do Triângulo Mineiro).
+- 📈 Estagiário na @CeresInvestimentos
 
 ---
 
 ### Tecnologias de Front-end
 <img alt="HTML5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;<img alt="CSS3" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;<img alt="Vue.js" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;<img alt="TailwindCSS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />&nbsp;&nbsp;&nbsp;<img alt="React" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
           
-
 ---
 
 ### Tecnologias de Back-end
-<img alt="Java" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;<img alt="Spring" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;<img alt="Node.js" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;<img alt=".Net" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />&nbsp;&nbsp;&nbsp;<img alt="JavaScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-          
+<img alt="Java" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;<img alt="Spring" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;<img alt="Node.js" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;<img alt=".Net" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />&nbsp;&nbsp;&nbsp;<img alt="JavaScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />       
 
 ---
 
