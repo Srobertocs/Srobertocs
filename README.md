@@ -1,7 +1,7 @@
 ### Olá! Sou o Sílvio Roberto, Vai um cafézinho aí? ☕
 
 - ⚡ Seja Bem-Vindo(a) ao meu perfil.
-- 🎈 Portfólio.
+- 🎈 POstagens de projetos pessoais e de repositórios de estudo.
 - 🤞 Atualmente estudante de ADS-IFTM (Instituto Federal do Triângulo Mineiro).
 - 📈 Estagiário na @CeresInvestimentos
 
